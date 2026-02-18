@@ -24,5 +24,5 @@ the resurrection of the body,
 and the life everlasting. 
 
 
-rune stone edited 
+rune stone trying to sign
 

@@ -41,3 +41,6 @@ And now this. And now more of this
 Carthago delenda est
 
 Tower test
+
+testing gitmoji
+:zap:

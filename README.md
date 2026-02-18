@@ -28,3 +28,6 @@ rune stone trying to again. New key. Try it agai
 
 back gthe other way
 
+so let's try it this way
+this way i say
+

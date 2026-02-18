@@ -21,8 +21,8 @@ the holy universal Church,
 the communion of saints,
 the forgiveness of sins,
 the resurrection of the body,
-and the life everlasting. Amen.
+and the life everlasting. 
 
-See also [[Nicene Creed]]
 
+rune stone edited 
 

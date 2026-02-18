@@ -33,4 +33,6 @@ this way i say
 
 Again  and again
 changed .gitconfig  i have no idea
+1password ugh
+
 

@@ -1,7 +1,0 @@
-
----
-tags: Quotes
----
-
-"We must build dikes of courage to hold back the flood of fear."
-Martin Luther King, Jr.

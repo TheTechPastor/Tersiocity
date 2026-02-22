@@ -1,5 +1,0 @@
-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
-
-
-classic token for xcode
-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

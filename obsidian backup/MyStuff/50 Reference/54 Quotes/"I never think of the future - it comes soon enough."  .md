@@ -1,7 +1,0 @@
-
----
-tags: Quotes
----
-
-"I never think of the future - it comes soon enough."  
-Albert Einstein

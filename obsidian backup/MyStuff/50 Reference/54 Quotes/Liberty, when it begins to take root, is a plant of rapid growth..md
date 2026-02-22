@@ -1,8 +1,0 @@
-
----
-tags: Quotes
----
-
-Liberty, when it begins to take root, is a plant of rapid growth.
-George Washington
-

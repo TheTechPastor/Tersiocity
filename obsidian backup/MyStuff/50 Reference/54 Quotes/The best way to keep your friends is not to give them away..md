@@ -1,6 +1,0 @@
----
-tags: Quotes
----
-
-"The best way to keep your friends is not to give them away."
-Wilson Mizner

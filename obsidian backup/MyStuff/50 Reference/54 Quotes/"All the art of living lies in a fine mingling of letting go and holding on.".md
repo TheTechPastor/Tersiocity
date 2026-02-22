@@ -1,8 +1,0 @@
----
-tags:
-  - Quotes
----
-
-
-"All the art of living lies in a fine mingling of letting go and holding on."
-Havelock Ellis

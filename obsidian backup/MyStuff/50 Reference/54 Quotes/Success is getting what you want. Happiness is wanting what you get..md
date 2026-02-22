@@ -1,7 +1,0 @@
----
-tags: Quotes
----
-
-"Success is getting what you want. Happiness is wanting what you get."
-Dale Carnegie
-

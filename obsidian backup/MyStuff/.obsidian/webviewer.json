@@ -1,7 +1,0 @@
-{
-  "openExternalURLs": false,
-  "enableAdblocking": true,
-  "homepage": "https://michaelwilson.online/Site/Home",
-  "customSearchEngine": "https://duckduckgo.com/?q=%s",
-  "searchEngine": "custom"
-}

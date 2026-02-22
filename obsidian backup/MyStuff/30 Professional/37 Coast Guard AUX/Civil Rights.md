@@ -1,1 +1,0 @@
-![[CG Civil Rights Strategic Plan_PRINT.pdf]]

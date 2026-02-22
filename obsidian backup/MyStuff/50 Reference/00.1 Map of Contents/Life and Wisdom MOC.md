@@ -1,5 +1,0 @@
----
-tags:
-  - MapOfContents
-  - LifeAndWisdom
----

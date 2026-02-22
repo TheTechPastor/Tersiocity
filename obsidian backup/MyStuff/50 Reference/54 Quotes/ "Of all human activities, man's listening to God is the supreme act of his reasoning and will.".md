@@ -1,7 +1,0 @@
-
----
-tags: Quotes
----
-
- "Of all human activities, man's listening to God is the supreme act of his reasoning and will."
-Pope Paul VI

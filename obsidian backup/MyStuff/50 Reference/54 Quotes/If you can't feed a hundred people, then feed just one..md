@@ -1,7 +1,0 @@
----
-tags: Quotes
----
-
-"If you can't feed a hundred people, then feed just one."
-Mother Teresa
-

@@ -1,3 +1,0 @@
-Template
-
-###<% tp.file.name %>

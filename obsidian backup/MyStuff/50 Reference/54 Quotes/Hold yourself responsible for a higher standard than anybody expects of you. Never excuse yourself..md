@@ -1,6 +1,0 @@
----
-tags: Quotes
----
-
-"Hold yourself responsible for a higher standard than anybody expects of you. Never excuse yourself."
-Henry Ward Beecher

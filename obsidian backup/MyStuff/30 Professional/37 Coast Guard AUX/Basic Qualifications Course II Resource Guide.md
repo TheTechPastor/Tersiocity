@@ -1,1 +1,0 @@
-![[BQCII Resource Guide.pdf]]

@@ -1,1 +1,0 @@
-[Zettlr Docs](https://docs.zettlr.com/en/)

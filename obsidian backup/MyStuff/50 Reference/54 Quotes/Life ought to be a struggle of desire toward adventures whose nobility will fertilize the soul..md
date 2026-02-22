@@ -1,6 +1,0 @@
----
-tags: Quotes
----
-
-"Life ought to be a struggle of desire toward adventures whose nobility will fertilize the soul."
-Rebecca West

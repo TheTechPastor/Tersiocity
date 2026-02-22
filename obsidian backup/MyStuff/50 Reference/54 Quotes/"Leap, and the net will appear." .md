@@ -1,7 +1,0 @@
-
----
-tags: Quotes
----
-
-"Leap, and the net will appear." 
-John Burroughs

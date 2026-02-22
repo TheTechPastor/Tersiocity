@@ -1,8 +1,0 @@
-
----
-tags: Quotes
----
-
-One cannot and must not try to erase the past merely because it does not fit the present.
-Golda Meir
-

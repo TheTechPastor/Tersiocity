@@ -1,7 +1,0 @@
-
----
-tags: Quotes
----
-
-Only the wisest and stupidest of men never change.
-Confucius

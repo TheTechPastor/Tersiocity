@@ -1,8 +1,0 @@
-
----
-tags: Quotes
----
-
-"It is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow."
-Robert H. Goddard
-

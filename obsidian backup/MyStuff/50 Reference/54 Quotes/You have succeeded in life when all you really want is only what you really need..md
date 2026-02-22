@@ -1,7 +1,0 @@
-
----
-tags: Quotes
----
-
-You have succeeded in life when all you really want is only what you really need.
-Vernon Howard

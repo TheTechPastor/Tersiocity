@@ -1,0 +1,8 @@
+
+---
+tags: Quotes
+---
+
+I am prepared for the worst, but hope for the best.
+Benjamin Disraeli
+

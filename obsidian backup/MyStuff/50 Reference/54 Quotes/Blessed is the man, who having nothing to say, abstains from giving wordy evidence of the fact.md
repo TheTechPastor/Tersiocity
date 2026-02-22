@@ -1,0 +1,7 @@
+
+---
+tags: Quotes
+---
+
+Blessed is the man, who having nothing to say, abstains from giving wordy evidence of the fact
+George Eliot

@@ -1,0 +1,8 @@
+
+---
+tags: Quotes
+---
+
+Between saying and doing, many a pair of shoes is worn out.
+Iris Murdoch
+

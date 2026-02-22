@@ -1,0 +1,8 @@
+
+---
+tags: Quotes
+---
+
+All wealth is the product of labor.
+John Locke
+

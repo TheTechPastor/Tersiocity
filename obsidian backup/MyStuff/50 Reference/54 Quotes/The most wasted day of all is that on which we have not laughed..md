@@ -1,0 +1,7 @@
+---
+tags: Quotes
+---
+The most wasted day of all is that on which we have not laughed.
+
+Nicolas Chamfort
+

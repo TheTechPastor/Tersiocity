@@ -1,0 +1,6 @@
+---
+tags: Quotes
+---
+
+"Everything's got a moral, if only you can find it."
+Lewis Carroll

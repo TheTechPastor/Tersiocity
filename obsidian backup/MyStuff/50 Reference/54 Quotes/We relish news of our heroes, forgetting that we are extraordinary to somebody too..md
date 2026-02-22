@@ -1,0 +1,7 @@
+
+---
+tags: Quotes
+---
+
+We relish news of our heroes, forgetting that we are extraordinary to somebody too.
+Helen Hayes

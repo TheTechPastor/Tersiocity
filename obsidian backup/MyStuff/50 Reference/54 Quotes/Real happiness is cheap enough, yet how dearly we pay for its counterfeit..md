@@ -1,0 +1,13 @@
+---
+tags: Quotes
+---
+
+"Real happiness is cheap enough, yet how dearly we pay for its counterfeit."
+Hosea Ballou
+
+---
+tags: Quotes
+---
+
+"Real happiness is cheap enough, yet how dearly we pay for its counterfeit."
+Hosea Ballou

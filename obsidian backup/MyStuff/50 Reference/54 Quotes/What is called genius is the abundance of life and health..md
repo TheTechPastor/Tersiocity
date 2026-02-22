@@ -1,0 +1,7 @@
+
+---
+tags: Quotes
+---
+
+"What is called genius is the abundance of life and health."
+Henry David Thoreau

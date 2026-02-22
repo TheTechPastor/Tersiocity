@@ -1,0 +1,8 @@
+
+---
+tags: Quotes
+---
+
+The young man knows the rules, but the old man knows the exceptions.
+Oliver Wendell Holmes, Sr.
+

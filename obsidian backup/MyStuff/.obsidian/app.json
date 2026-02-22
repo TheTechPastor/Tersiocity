@@ -1,0 +1,18 @@
+{
+  "showInlineTitle": false,
+  "userIgnoreFilters": [
+    "90 Archive/"
+  ],
+  "propertiesInDocument": "source",
+  "alwaysUpdateLinks": true,
+  "uriCallbacks": true,
+  "attachmentFolderPath": "50 Reference/57 Attachments",
+  "promptDelete": false,
+  "showLineNumber": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

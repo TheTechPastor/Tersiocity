@@ -1,0 +1,7 @@
+
+---
+tags: Quotes
+---
+
+"Man is a creature who lives not upon bread alone, but primarily by catchwords."
+Robert Louis Stevenson

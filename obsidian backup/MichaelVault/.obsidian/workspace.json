@@ -1,0 +1,283 @@
+{
+  "main": {
+    "id": "7752b3faebd0c7ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "71f41b0f273f7144",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16581c61fcfad0b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Time Garden/01 Daily/2026/02-February/2026-02-06-Friday.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-06-Friday"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67c0c6f18f7dd6a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b128c682457cdb41",
+        "type": "tabs",
+        "dimension": 68.18181818181819,
+        "children": [
+          {
+            "id": "feaf2d0abc66b502",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0cefbf48be8c89e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e2a747ca7e12299b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "7173f00497aa04f0",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "2baf273d7ebd3417",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Calendar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "08687de962aac8ee",
+        "type": "tabs",
+        "dimension": 31.81818181818182,
+        "children": [
+          {
+            "id": "819ae2500aa9b447",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 334.5
+  },
+  "right": {
+    "id": "e23cd310ebc2ff73",
+    "type": "split",
+    "children": [
+      {
+        "id": "b37cd54a806f2e1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "449b66510d35b8e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "07 Notes/Extras/A secret garden within the garden..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for A secret garden within the garden."
+            }
+          },
+          {
+            "id": "8235c0f8c9af30eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "07 Notes/Extras/A secret garden within the garden..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from A secret garden within the garden."
+            }
+          },
+          {
+            "id": "29c97841af2d2d48",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6b7c0eb98c4eaf47",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Time Garden/01 Daily/2025/12-December/2025-12-22-Monday.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-12-22-Monday"
+            }
+          },
+          {
+            "id": "99f2b17353c24ff2",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 374.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "local-backup:Run local backup": true,
+      "pdf-plus:PDF++: Toggle auto-copy": true,
+      "pdf-plus:PDF++: Toggle auto-focus": true,
+      "pdf-plus:PDF++: Toggle auto-paste": true,
+      "bases:Create new base": true,
+      "cmdr:Open Daily Note (Journals: open daily note)": false,
+      "graph:Open graph view": true,
+      "random-note:Open random note": true,
+      "iconic:Open rulebook": true,
+      "cmdr:Journals: Open calendar": false,
+      "cmdr:Time Garden Plugin: Reset Welcome Experience": false,
+      "cmdr:Time Garden Plugin: Open Time Garden Settings": false,
+      "pexels-banner:🚩 Pixel Banner Menu": true,
+      "templater-obsidian:Templater": true,
+      "obsidian42-brat:BRAT": true,
+      "callout-manager:Insert Callout": true,
+      "switcher:Open quick switcher": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "16581c61fcfad0b7",
+  "lastOpenFiles": [
+    "Time Garden/01 Daily/2026/02-February/2026-02-06-Friday.md",
+    "Time Garden/01 Daily/2026/02-February",
+    "Time Garden/01 Daily/2026",
+    "01 Daily/2026/02-February/2026-02-06-Friday.md",
+    "Time Garden/01 Daily/2026/02-February/2026-02-05-Thursday.md",
+    "01 Daily/2026/02-February",
+    "01 Daily/2026",
+    "01 Daily",
+    "Time Garden/01 Daily/2026/02-February/2026-02-07-Saturday.md",
+    "Time Garden/01 Daily/2026/02-February/2026-02-04-Wednesday.md",
+    "Time Garden/01 Daily/2026/02-February/2026-02-03-Tuesday.md",
+    "01 Daily/2026/02-February/2026-02-04-Wednesday.md",
+    "02 Weekly/2026/2026-W06.md",
+    "02 Weekly/2026",
+    "02 Weekly",
+    "MyStuff/30 Professional/32 Tech Pastor/BlastoffLabs/Steve's Zoom Channel.md",
+    "01 Daily/2026/02-February/2026-02-03-Tuesday.md",
+    "MyStuff/20 Ontogenesis/25 Musings/13 Thoughts/How I judge a Government.md",
+    "MyStuff/20 Ontogenesis/21 My Walk/Philokalia.md",
+    "Time Garden/01 Daily/2026/01-January/2026-01-25-Sunday.md",
+    "Time Garden/01 Daily/2026/01-January/2026-01-31-Saturday.md",
+    "test-note.md",
+    "BMO/Profiles/BMO.md",
+    "BMO/Profiles",
+    "BMO",
+    "Time Garden/01 Daily/2026/02-February/2026-02-02-Monday.md",
+    "Time Garden/01 Daily/2026/02-February/2026-02-01-Sunday.md",
+    "Time Garden/01 Daily/2026/01-January/2026-01-30-Friday.md",
+    "Time Garden/01 Daily/2026/01-January/2026-01-29-Thursday.md",
+    "Time Garden/01 Daily/2026/01-January/2026-01-27-Tuesday.md",
+    "Time Garden/01 Daily/2026/01-January/2026-01-28-Wednesday.md",
+    "Time Garden/02 Weekly/2026/2026-W04.md",
+    "Time Garden/02 Weekly/2026/2026-W03.md",
+    "Time Garden/01 Daily/2026/01-January/2026-01-12-Monday.md",
+    "Time Garden/02 Weekly/2026",
+    "Time Garden/07 Notes/Images/IMG_1405.jpeg",
+    "Time Garden/07 Notes/Images/IMG_1401.jpeg",
+    "Time Garden/07 Notes/Images/98FB5BA7-1A11-4501-BA52-06D849165344_4_5005_c.jpeg",
+    "Time Garden/07 Notes/Images/1D69AC6C-F033-407C-A76E-0402C3105D2E_4_5005_c.jpeg",
+    "Time Garden/07 Notes/Images/935F653D-42BE-4697-995B-E984E174E800_4_5005_c.jpeg",
+    "Time Garden/07 Notes/Images/IMG_1344.jpeg",
+    "Time Garden/07 Notes/Images/IMG_1331.jpeg",
+    "Time Garden/07 Notes/Images/AVG_M_800x300px.gif",
+    "Time Garden/07 Notes/Images/kingsway.jpg",
+    "Time Garden/06 Templates/Images/QAIdeaBanner.gif"
+  ]
+}

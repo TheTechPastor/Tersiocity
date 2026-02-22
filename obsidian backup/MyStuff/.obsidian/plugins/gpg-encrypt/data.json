@@ -1,0 +1,11 @@
+{
+  "pgpExecPath": "/usr/local/bin/gpg",
+  "pgpSignPublicKeyId": "34B147D878BE53E4",
+  "pgpAlwaysTrust": false,
+  "pgpDefaultEncryptKeys": [],
+  "pgpLibrary": "openpgpjs",
+  "pgpAditionalCommands": false,
+  "pgpAditionalCommandsBefore": "",
+  "pgpAditionalCommandsAfter": "",
+  "pgpAditionalCommandsConsole": false
+}

@@ -1,0 +1,120 @@
+---
+Sermon: Healing of the Gentile womans daughter - demon possesion
+Date Preached: 2022-08-07
+Reference: Matthew 15:21-28, Mark 7:24-30
+Delivered by: Rev. Dr. Michael L. Wilson
+Place: Cornerstone Fellowship
+---
+
+# Miracle of Healing the gentile woman's daughter
+	Matthew 15:21-28, Mark 7:24-30
+
+- Miracle: healing the Gentile Woman’s demon possessed daughter
+	- Matthew 15:21-28, Mark 7:24-30
+- ***Introduction***
+	- Jesus retires to the area of Tyre and Sidon [MAP SLIDES]
+		- This is way outside Jewish territory
+		- And many have speculated, using biblical data
+			- As to why he did this
+		- First: the multitudes after the feeding of thousands
+			- Wanted to make him king
+			- We can believe that this desire had not subsided
+		- Second: Herod thought Jesus was John the Baptist come back from the dead
+			- So he was a threat
+		- Third: the religious leaders we plotting more and more to destroy Jesus
+	- So a break would give Jesus time to rest
+		- And to teach his disciples more about the coming crucifixion
+	- Tyre and Sidon were famous cities in the Old Testament
+		- Very rich trading centers
+		- Ruthless militaries
+		- And were world famous being Jewels of the Mediterranean Sea
+	- The Greeks conquered both cities
+		- And now they were normal ports
+		- But deep in Gentile territory
+	- Jesus went to a house in Tyre
+		- But, as the Bible says
+			- He could not be hidden
+			- Even way out in Tyre, people knew of him
+- **Mercy (22)**
+	- In a house in Tyre
+	- A woman comes to him
+		- The woman is described as a Canaanite woman
+		- If you know your Old Testament
+			- The canaanites were in the promised land when Joshua came to power
+				- His instructions were to displace them and utterly destroy them
+			- So this woman was a descendant of the enemies of Israel
+		- The Gospel of Mark calls her a Syrophoenician
+			- Which means she was a Syrian Greek
+			- A pagan who worshipped false Gods
+			- Who worshipped idols
+		- She had no training in the Bible or in Jewish religious practice
+	- She comes to Jesus  and says, “Have mercy on me”
+	- Mercy is undeserved
+		- She understood that this man, Jesus, owed her nothing
+		- There is not a human on earth that can build a case for righteous justice from God and live through it
+		- The best anyone can do is beg for mercy
+- **Lord, Son of David (22)**
+	- So, she rightly begged for mercy
+	- She also knew who was going to give that mercy
+	- Despite her pagan life
+		- She had heard correctly about Jesus
+		- She believed what she hear
+	- Back in Israel, the Pharisees called Jesus a drunkard and sinner
+		- This gentile woman heard the truth about Jesus and believed it
+	- She explained that her daughter was demon-possessed
+		- It is believed that she did not go to Jesus first
+			- First, she most likely tried her pagan rituals
+				- Her pagan priests
+				- Her pagan sacrifices
+				- And non-of it worked
+	- She did not have general faith
+		- But faith in Lord Jesus, Son of David
+- **She was persistent (23-24)**
+	- Initially Jesus ignored her
+		- She kept asking
+		- Jesus kept ignoring
+	- Finally the disciples ask Jesus
+		- “Send her away, for she is crying out after us”
+		- Most commentators call this an insensitive and unspiritual thing for the disciples to say
+	- Jesus tells the disciples. And the woman can hear
+		- “I was sent only to the lost sheep of the house of Israel”
+		- Which is true
+			- Jesus was a jew, came to the Jews to save the Jews
+			- After all Israel is God’s created and chosen people
+			- Salvation is supposed to come through the Jews
+- **Humility (25-27)**
+	- The woman bowed down before Jesus
+	- Face on the ground
+		- Everyone saw this as an act of worship
+	- Jesus said “It is not good to take the children’s bread and throw it to the dogs”
+		- There are multiple Greek words for dog.
+			- The word that Jesus used did not mean a junkyard, untamed, mute
+			- But a small puppy that was kept as a family pet
+			- Still calling her a dog, but not a nasty one
+		- Gentiles were regularly called dogs by the Jews
+			- And it is possible this woman knew that
+	- The woman says, “Yes, Lord; but even the dogs feed on the crumbs which fall from the master’s table.”
+		- This woman humble conceded she was not of the race of chosen people
+			- She had no pride, no self-reliance, no self-righteousness which so often characterized the Pharisees
+			- She agreed that a tiny leftover of Jesus’s awesome power
+				- Was enough to heal her daughter
+- **The Miracle (28)**
+	- Jesus states that her faith was great and that he daughter would be healed
+		- And her daughter was healed instantly
+	- In Acts 21, the Apostle Paul arrived at Tyre
+		- He found Christians there
+	- In Luke 6:17 it says that people from Tyre and Sidon
+		- Came down to hear
+		- The sermon on the mount
+		- It is easy to believe that this woman and those who heard Jesus speak
+			- Started a Christ-centered movement
+			- That the Apostle Paul could then complete
+				- Her education concerning the death and resurrection of Jesus 
+- ***Conclusion***
+	- The woman’s faith was based on
+		- God’s mercy
+		- A true knowledge of who Jesus was
+		- She was reverent in her addressing Jesus
+		- Persistence
+		- Humility
+	- And Jesus released her daughter from the clutches of Satan

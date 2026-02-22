@@ -1,0 +1,23 @@
+{
+  "accentColor": "",
+  "cssTheme": "Blue Topaz",
+  "enabledCssSnippets": [
+    "Bible",
+    "extended-color-schemes",
+    "dashboard",
+    "imageAdjustment",
+    "icons",
+    "fonts",
+    "Colored Sidebar Items",
+    "seperator",
+    "accent",
+    "tenki",
+    "cards",
+    "DailyNote"
+  ],
+  "theme": "system",
+  "translucency": true,
+  "showRibbon": true,
+  "baseFontSize": 16,
+  "textFontFamily": "Avenir"
+}

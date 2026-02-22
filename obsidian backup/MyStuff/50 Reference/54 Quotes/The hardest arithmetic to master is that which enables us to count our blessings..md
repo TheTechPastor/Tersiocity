@@ -1,0 +1,6 @@
+---
+tags: Quotes
+---
+
+"The hardest arithmetic to master is that which enables us to count our blessings."
+Eric Hoffer

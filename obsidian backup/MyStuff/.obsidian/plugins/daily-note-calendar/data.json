@@ -1,0 +1,41 @@
+{
+  "generalSettings": {
+    "displayNotesCreatedOnDate": true,
+    "displayNoteIndicator": true,
+    "useModifierKeyToCreateNote": false,
+    "firstDayOfWeek": 0,
+    "weekNumberStandard": 0
+  },
+  "notesSettings": {
+    "displayDateTemplate": "HH:mm",
+    "useCreatedOnDateFromProperties": false,
+    "createdOnDatePropertyName": "created_on",
+    "createdOnPropertyFormat": "yyyy/MM/dd HH:mm",
+    "sortNotes": "ascending"
+  },
+  "dailyNotes": {
+    "nameTemplate": "yyyy-MM-dd",
+    "folder": "40 Atomic/41 Notes",
+    "templateFile": "50 Reference/00 Templates/Daily Note"
+  },
+  "weeklyNotes": {
+    "nameTemplate": "yyyy-ww",
+    "folder": "40 Atomic/41 Notes/Weekly Notes",
+    "templateFile": "50 Reference/00 Templates/Weekly Note"
+  },
+  "monthlyNotes": {
+    "nameTemplate": "yyyy-MM",
+    "folder": "40 Atomic/41 Notes/Monthly Notes",
+    "templateFile": "50 Reference/00 Templates/Monthly Note"
+  },
+  "quarterlyNotes": {
+    "nameTemplate": "yyyy-qqq",
+    "folder": "40 Atomic/41 Notes/Quarterly Notes Notes",
+    "templateFile": "50 Reference/00 Templates/Quarterly Note"
+  },
+  "yearlyNotes": {
+    "nameTemplate": "yyyy",
+    "folder": "40 Atomic/41 Notes/Yearly Notes",
+    "templateFile": "50 Reference/00 Templates/Yearly Note"
+  }
+}

@@ -1,0 +1,7 @@
+---
+tags: Musings
+---
+Story of $100 in a small town
+
+A bald-headed bearded stranger stopped in town and went into an small old hotel to check in. He asked to go check out the rooms first so, in good faith, he left a $100 bill—a deposit of sorts—with the hotel owner. The hotel owner immediately ran next door to pay his grocery bill. The grocer ran it across the street to pay one of his suppliers. The supplier used it to pay off his co-op bill. The co-op guy ran it back across the street to pay the local hooker who had taken up residence in the aforementioned hotel. The hooker ran it downstairs to pay her hotel bill just ahead of the returning traveler, who picked the $100 bill off the desk and left saying that the rooms were not satisfactory.
+

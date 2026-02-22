@@ -1,0 +1,15 @@
+---
+tags: thoughts, blog, musings
+obsidianUIMode: preview
+---
+Thoughts on Windows
+That would be Microsoft Windows.  I hate Microsoft Windows (hate speech?). I hate it because Microsoft as a company has no real direction on where they are going or what they want to do.  I have worked at Microsoft in the past and the political infighting and lack of direction made for very unproductive days.  I was told, very clearly, that Bill Gates designed Microsoft to have multiple department working on the same projects.  Mr. Gates loves departments to compete against each other and actually form animosity toward each other.  The result of this, when I was there, was total lack of trust for co-workers.  I was also told that people who had been there five year or more would do anything, and they meant anything, to preserve their employment because they were vesting stock options and well on their way to be a millionaire.  Chaos reigned as people would destroy other people’s work, erase hard drives and do whatever they could to make other people look bad so others would look great.
+
+Now to their flagship product, Windows.  Windows is a software product, it is an operating system.  Originally, it was written for IBM for the IBM Personal Computer.  Bill Gates, when he “sold”it to IBM did not give IBM ownership.  Bill gates did something that had never been done before, he licensed software.  That means he could sell the same software over and over and over again and become the world’s richest man, for a while.
+
+As a result, Windows had to be modified to run on all sort of different computer hardware configurations.  Large companies like DELL and HP and older companies like Gateway were allowed to totally change the UI of the program, so if a person bought a DELL Windows would look one way and if a person bought an HP, it would look a different way.  The core was written with backward compatibility in mind so it could run on even the oldest computer hardware.  As a result, Windows runs 80% of the world’s computers, including 85% of all governments world wide.
+
+When Apple came out with the iPhone, Microsoft wanted a phone too. They already had Windows Mobile, but they wanted a modern phone, so Steven Balmer, the successor to Bill Gates, made the edict that the same operating system would run on all devices.  That was impossible and  Microsoft floundered.  After the stable Windows 7 came out, they moved to a tile based operating system and to an App Store that was clearly full of crap.  
+
+Today Windows is kludgy and ugly.   Inferior hardware and a patchwork of old and new in an operating system makes windows systems unstable.  Virus and malware writers find windows easy pickings so most of the computing power in a windows system is used protecting itself from outside threats.  Bill Gates made his billions and left the world with an operating system that is cheap and obsequious.  Most people get a Windows PC because they can get one for $150, and they soon find out, you get what you pay for.
+

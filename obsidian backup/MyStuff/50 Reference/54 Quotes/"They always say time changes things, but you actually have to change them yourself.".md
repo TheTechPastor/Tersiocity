@@ -1,0 +1,15 @@
+
+---
+tags: Quotes
+---
+
+"They always say time changes things, but you actually have to change them yourself."
+Andy Warhol
+
+
+---
+tags: Quotes
+---
+
+"They always say time changes things, but you actually have to change them yourself."
+Andy Warhol

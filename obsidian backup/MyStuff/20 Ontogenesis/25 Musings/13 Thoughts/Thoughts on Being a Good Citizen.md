@@ -1,0 +1,15 @@
+---
+tags: thoughts, blog, musings
+obsidianUIMode: preview
+---
+Thoughts on Being a Good Citizen
+In Jr High I took a class on American Government.  It covered the basics of what constituted the American Government with its three co-equal branches.  It also covered my responsibilities as a citizen of this country.  My duty to pay taxes, vote and not commit treason.  In doing these things, I would be a good citizen.
+
+Recently Facebook announced that it uncovered tens of thousands of accounts that originated in Russia.  These accounts bought millions of dollars of advertising being positive and negative on various election issues in the 2016 election.  Some ads per pro gun control and others were pro gun ownership.  Some were pro-abortion and others were pro-life.  Some were pro Hillary and anti Trump while others were pro Trump and anti Hillary.  It seems from those who have studies these ads that the goal of this “fake news” was meant to sew discord and distrust during the 2016 election.  They did not seem to favor one position or one candidate, but cast doubt on all sides.
+
+The New York Times ran a story today concerning this revelation from Facebook.  They accuse Facebook of not doing enough to weed out the fake news.  They stated that Facebook was not a “good citizen.”  This last statement amazed me and concerned me.  Facebook is not a person that can make choices to support or fight against American values.  Facebook is a for-profit corporation.  Their goal, by law, is to increase shareholder wealth.  Any corporation that does not due that can be fined by the government.  So, the board of Facebook does not get up in the morning and all, “how can we be a good citizen today” like the New York Times wants them to.
+
+I heard this phrase “good citizen” from two other news reports and one political today.  There seems to be a desire, especially from the progressive left, that every person, every organization and every institution that does not support the progressive left agenda, is not a good citizen.  The progressive left New York Times focused on all the anti-Hillary stuff on Facebook in an attempt to give a reason for why she did not win the election.  Since Facebook is an open messaging platform, I would suggest that the New York Times open a few thousand accounts and post pro-Hillary fake news instead of bemoaning the fact that Russia posted crap all over Facebook.  BooHoo.  
+
+Facebook, Twitter, Instagram, Snapchat and the various other messaging platforms out there are essentially neutral. Without customers, Facebook would die.  If no one posted to Twitter, the company would close.  These do not create news, they are a place for people to post news, fake or otherwise.  For these companies to be watchdogs of true and fake news would cost so much that these companies could not longer exist.  People need to be educated, politically educated and intelligent enough to take all inputs and decide.  Of course the progressive left believes  half the country is a basket of deplorable who cannot chose for themselves.
+

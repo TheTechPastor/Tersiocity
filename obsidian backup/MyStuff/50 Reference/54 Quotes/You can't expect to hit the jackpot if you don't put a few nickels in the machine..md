@@ -1,0 +1,18 @@
+# "You can't expect to hit the jackpot if you don't put a few nickels in the machine."
+
+Flip Wilson
+
+
+---
+tags: Quotes
+---
+
+You can't expect to hit the jackpot if you don't put a few nickels in the machine.
+Flip Wilson
+
+---
+tags: Quotes
+---
+
+You can't expect to hit the jackpot if you don't put a few nickels in the machine.
+Flip Wilson 

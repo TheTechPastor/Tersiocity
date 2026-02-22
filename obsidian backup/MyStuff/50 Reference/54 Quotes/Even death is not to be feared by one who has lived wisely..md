@@ -1,0 +1,6 @@
+---
+tags: Quotes
+---
+
+"Even death is not to be feared by one who has lived wisely."
+Buddha

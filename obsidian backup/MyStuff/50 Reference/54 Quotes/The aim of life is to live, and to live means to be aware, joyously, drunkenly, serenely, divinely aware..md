@@ -1,0 +1,8 @@
+
+---
+tags: Quotes
+---
+
+The aim of life is to live, and to live means to be aware, joyously, drunkenly, serenely, divinely aware.
+Henry Miller
+

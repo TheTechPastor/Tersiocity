@@ -1,0 +1,14 @@
+---
+tags: thoughts, blog, musings
+obsidianUIMode: preview
+---
+Churches and Government Benefits
+Carl Truman in his article in First Things, entitled “preparing for Winter” builds a case that any church that gains benefit from the government must also support the views and teachings of that government.  His article focuses on the sexual immorality of same-sex-marriage and transgender issues.  His thought is that a time will be coming when churches who preach against sin as sin, no matter what they sin is, will look text exempt status, will have their 501(c).3 status cancelled and would stop receiving any subsidies for helping the homeless or running social programs.  In other words, churches that have a relation with the government will eventually be required to be government churches.  This is already happening in Canada where churches can receiving operating money from the government.  
+
+My church situation is that the county has removed our tax exempt status, so we have to pay a tax bill of close to $64,000.  Their claim is that our church is a commercial, for profit business.  This article got me thinking of how this is a spiritual battle as well as a legal battle.  From the very beginning of this, people in my church have called this an attack of satan, which is true, but why would I believe that the government would tell me the truth about this conflict.  It is quite possible that the whole commercial business statement is just a distraction.  The county may be trying to shut us down because we are a church, period.  
+
+Our church has never made any public statements against specific sexual sins, however, I think the various government agencies are seeing the writing on the wall and are picking low hanging church fruit to cull the herd before going for the multi-million dollar budget Three-Crosses church down the street.  That church has lawyers and tax attorneys and criminal attorneys  that would fight for the church.  Most of the small churches in Alameda country do not have that support, so we are being taken out first.  That is one theory.
+
+I did not make the tax-free deal with Alameda County.  It was made a long time ago, nation wide and is supported by the IRS.  Counties collect and use property tax for schools and such.  When this church was founded in 1946, the assumption would be that the land was tax-free.  When I came to the church in 2005, I did not have to renegotiate the tax deal, it was already in place.  So the IRS and the County are slowly picking on small churches without bank accounts and forcing them to shut down.  Then the big churches will be challenges and it may take longer, but they will also fall.
+
+Churches that embrace same-sex-marriage and transgender and homosexual behavior as godly and righteous behavior will be praised as state-churches.  Then the gospel will be preached in houses and private locations where there is no benefit from the government.

@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1738964015368,
+      "items": [],
+      "title": "God"
+    },
+    {
+      "type": "group",
+      "ctime": 1738964021434,
+      "items": [],
+      "title": "Tech"
+    },
+    {
+      "type": "group",
+      "ctime": 1738964026879,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1738964086730,
+          "path": "20 Ontogenesis/24 Prayers/Litany of Trust.md"
+        }
+      ],
+      "title": "Prayers"
+    }
+  ]
+}

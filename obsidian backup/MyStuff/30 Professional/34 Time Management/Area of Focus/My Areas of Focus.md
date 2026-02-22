@@ -1,0 +1,15 @@
+- Health
+	- Exercise Daily
+	- Invert Daily
+	- Meditate 
+- Finances
+	- save
+- Janelle
+	- website
+	- office
+- Faith
+- Hobbies
+	- learn Apple reminders better
+	- My daily note
+- Kitties
+- House

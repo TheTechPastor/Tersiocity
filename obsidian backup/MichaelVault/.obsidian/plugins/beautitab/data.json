@@ -1,0 +1,26 @@
+{
+  "backgroundTheme": "custom",
+  "customBackground": "https://bing.biturl.top/?resolution=1920&format=image&index=0&mkt=zh-CN",
+  "localBackgrounds": [],
+  "showTopLeftSearchButton": true,
+  "topLeftSearchProvider": {
+    "command": "omnisearch:show-modal",
+    "display": "Omnisearch: Vault search"
+  },
+  "showTime": true,
+  "timeFormat": "12-hour",
+  "showGreeting": true,
+  "greetingText": "Hello, Tech Pastor",
+  "showInlineSearch": true,
+  "inlineSearchProvider": {
+    "command": "omnisearch:show-modal",
+    "display": "Omnisearch: Vault search"
+  },
+  "showRecentFiles": true,
+  "showBookmarks": true,
+  "bookmarkSource": "all",
+  "bookmarkGroup": "",
+  "showQuote": true,
+  "quoteSource": "Quoteable",
+  "customQuotes": []
+}

@@ -1,0 +1,8 @@
+---
+tags: Quotes
+---
+
+"There are many ways of going forward, but only one way of standing still."
+
+Franklin D. Roosevelt
+

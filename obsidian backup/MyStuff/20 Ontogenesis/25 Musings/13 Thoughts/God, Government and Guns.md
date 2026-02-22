@@ -1,0 +1,14 @@
+---
+tags: thoughts, blog, musings
+obsidianUIMode: preview
+---
+God, Government and Guns
+If I wanted to create a society where people, for no reason at all, would buy lots of guns and shoot down on a country western concert, I would first remove God and the Bible from every school, every news cast, every government event and from daily life.  I would then replace God and the Bible with self-esteem, telling people that they are correct and right, no matter what they think or feel.  I would train up children to believe that there are no standards, no ethics and no morals except that they invent.  It will take a couple of generations, because I have to wait for this kids to grow up and have kids of their own, but eventually, I would craft a society where evil reigns, government stands up as god and people can beat down other people, shoot other people, and perform any violence they want and there will be no consequences.  
+
+If you did not catch it, that is what we have done in America.  Piece by piece God and his Word have been removed from daily life and now that we are on the second generation of this, people can go to protests, call themselves ANTIFA, set things on fire and beat people up and the police will do nothing.  People can shoot each other in record numbers in Chicago and it never makes the news, but someone shoots up a country western concert and it is  a tragedy like no other.  It is a tragedy that the progressive left has created.  
+
+Yesterday someone asked why the number of mass killings is increasing.  The clear reason is that the progressive left have removed identity, purpose and community form society.  People now have to find their own way, instead of society proclaiming that God has the only way and his Word give standards, ethics and morals, that if everyone in town believed it, this person would have been stopped long before that night.  But we isolate ourselves because each person is a law unto themselves.  There is no community and people don’t look out for each other.  
+
+When God and his Word are removed, government, school and society cannot fill that void, so Satan rushes in with sinful pursuits, selfish ambition and deadly violence.  When righteousness is removed, evil is all that is left and when evil is all that is left, people will die.  Millionaires  with lots of homes, lots of cars and lots of guns will rent a suite of rooms and shoot at a concert down below.  This is the best we can hope for without God or his Word.
+
+Utopia is not possible on earth.  No matter what we do or believe or teach as a society, there will still be murder and violence and sin.  However, putting God and the Bible back into schools, back on TV, back into government and back into society would go a long way to putting everyone on the same ethical page and would make common sense common once again.  

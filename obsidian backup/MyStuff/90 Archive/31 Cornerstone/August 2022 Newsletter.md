@@ -1,0 +1,14 @@
+---
+author: Pastor Michael l. Wilson
+tags:
+  - newsletter
+  - Cornerstone
+---
+What does it mean to be a follower of Jesus Christ.  Thousands of authors have tried to answer that question in books, articles, radio programs, TV shows and sermaons.  Some have said that it is a different situation.  As culture changes so do the requirments of a Christian.  I believe that the packaging of Christianity may change.  We wear different clothes, we meet in church buildings and not synagogues or homes, but the core of Christianity and the foundations of a Christ follower remain the same.
+
+Back in the time of Jesus, The Roman empire ruled the world.  It was illegal to worship a God not recognized by the Romans.  The Christian leaders refused to state that Jesus was one of many Gods, and so they were persecuted and most of the original group of Jesus followers were martyred by the government.  Today, for most of the history of America, people have had the freedom to worhsip the one true and living God.  Out Constitution was built around the idea of freedom of religion.  The Constitution is a list of limits on the government.  The Bill of Rights is a list of rights of the cutizens of America.  The First Ammendment states, "Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof."  Then it talks about sopeech and the press and assembly and greviences.  Yet, the first right that every American has is to worhsip God freely.  Therefore we have choices on how we follow Christ.  
+
+Our Church believes that we follow the same Christ that the apostles followed.  We follow that Christ the same way the apostles did.  We find out how they followed Jesus because they wriote about it in the Bible.  The Bible is our instruction book on how to live for Christ.  It has everything we need for faith and living (2 Peter 1:3-9).  We also know that the Bible is God breathed and profitable for teaching, rebuking and correcting in all righteousness (1 Timothy 3:16-17).  If we have a question about how to live, we can go to the Bible.  There are literally millions of helps to encourage people to get into the Bible and learn.  
+
+Yet, it is easier in America, because of our freedoms to worship God anyway we want.  Some people that I have talked to tell me how they imagine God is.  God is love there, they can do whatever they want, God will forgive them and welcome them into heaven.  I ask people like that where they get these ideas about God, they tell me that they just make them up.  If people who believe things like that have money or influence, then fasle religions are created.  Cults come into existence and these strange ideas about God become official doctrine.  Yet, we have the Bible, and while we still have the Bible, we need to read it, study it, understand it and apply it.  Everything we believe must be found in the Bible.
+

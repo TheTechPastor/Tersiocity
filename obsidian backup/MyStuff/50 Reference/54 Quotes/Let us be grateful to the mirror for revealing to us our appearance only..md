@@ -1,0 +1,8 @@
+
+---
+tags: Quotes
+---
+
+Let us be grateful to the mirror for revealing to us our appearance only.
+Samuel Butler
+

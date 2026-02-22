@@ -1,0 +1,15 @@
+---
+tags: thoughts, blog, musings
+obsidianUIMode: preview
+---
+Thoughts on my church and the county
+Today I heard that the IRS, even under President Trump is targeting small, vulnerable churches with small congregations and deleting their 501(c).3 because the IRS is declaring them non-charities.  I am forming an open letter to the country when I finally get the charges.  I will post the charges and my open letter of response on every social media platform I can find.  This nit-picking harassment on small churches needs to stop.  Part of my open letter follows:
+
+I became a pastor in March of 2005.  Another church was already renting and so I continued the practice.  This other church saw the change of pastors as a chance to take over and they were asked to leave June of 2005.  The county never got involved.  In 2007, A neighbor family said they wanted to have a quinceanera for their daughter,  We had never rented the hall before and so we charged them $145 for a few hours.  Between 2007 and April of 2010 we rented our hall to a few other families.  When the IRS showed up in April of 2010, someone in our church said that we should see if this hall renting was legal.  So I called the county.  I was told, over the phone, that if the rentals were irregular (not every Monday or the third Thursday of every month) and if it was different people each time, then it fell into the category of fund raising and not a commercial business.  I took this as truth.  In October of 2010, we found out that the county had changed their exemption application form and I had filled out the wrong one.  So we were immediately declared a commercial revenue seeking business.  Shoot first and ask questions later has become the practice of Alameda county.  A simple phone call explaining that they had a new form, or a mass email, or just mail me the form.  There are a dozen things the county could do to prevent us from being out of compliance, but that is clearly not their goal.  
+
+2014 brought a man to my church who said he felt led by God and wanted to plant a church.  He had worked for 14 years at a nearby church.  I spoke with him at length and then said I needed to contact the county.  I called the county and gave the story.  They asked if he had a 501(c).3 or was incorporated.  I said no.  They said he could be under our exemption since he was just starting out, but it would be improper for him to give out tax receipts for donations.  So I moved forward.  2 years later the man got tired of being a pastor and quit.  
+
+By the end of 2014, I had called the county a dozen or more times.  Every question, thought, idea or problem I had, I called the county to make sure I did not violate their policy of a tax exempt church.  Yet every year, I would receive a correction letter or a penalty bill or something which required hours and hours of more work with no hope that next year is better.  
+
+The goal of the IRS and Alameda county is to shut down small churches to stop tax deductions and to gain property tax.  Period 
+

@@ -1,0 +1,4 @@
+Each of you, for himself or herself, by himself or herself, and on his or her own responsibility, must speak. It is a solemn and weighty responsibility and not lightly to be flung aside at the bullying of pulpit, press, government or politician. Each must decide for himself or herself alone what is right and what is wrong, which course is patriotic and which isn't. You cannot shirk this and be a man, to decide it against your convictions is to be an unqualified and inexcusable traitor. It is traitorous both against yourself and your country.   
+Let men label you as they may, if you alone of all the nation decide one way, and that way be the right way by your convictions of the right, you have done your duty by yourself and by your country, hold up your head for you have nothing to be ashamed of.
+
+Mark Twain

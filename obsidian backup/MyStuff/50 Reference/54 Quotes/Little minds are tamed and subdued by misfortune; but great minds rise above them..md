@@ -1,0 +1,7 @@
+---
+tags: Quotes
+---
+Little minds are tamed and subdued by misfortune; but great minds rise above them.
+
+Washington Irving
+

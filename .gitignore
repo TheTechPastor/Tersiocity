@@ -1,1 +1,4 @@
 .DS_Store
+
+# Generated Obsidian Copilot search indexes
+**/.obsidian/copilot-index*.json
